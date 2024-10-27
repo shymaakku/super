@@ -37,7 +37,8 @@ button{
 	width: 100%;
 	height: 1000px;
 	background-image: url(bg-1.jpg);
-	background-position: right;
+	background-position:right;
+	padding-left:50px;
 
 
 	
